@@ -1,0 +1,52 @@
+{
+  "language": "Português",
+  "search": {
+    "please_type": "Por favor insira um local ou clique no ícone para encontrar a sua localização",
+    "placeholder": "Procurar...",
+    "find_location": "Encontrar a minha localização",
+    "not_found": "O local não foi encontrado",
+    "search_qtty": "O clima em {placeName} foi procurado {searchQtty} vezes"
+  },
+  "auth": {
+    "register": "Registar",
+    "login": "Login",
+    "register_error": "Erro no registo",
+    "login_error": "Erro no login",
+    "email": "Email",
+    "password": "Password",
+    "email_required": "E-mail obrigatório",
+    "password_required": "Password obrigatória",
+    "email_valid": "E-mail inválido",
+    "password_length": "A password tem de ter no mínimo 6 caracteres",
+    "title": "Autenticação"
+  },
+  "general": {
+    "homepage": "Página inicial",
+    "place": "Local",
+    "date": "Data",
+    "degrees": "Temperatura",
+    "weather": "Clima",
+    "empty": "Vazio...",
+    "rows_per_page": "Resultados por página",
+    "all": "Todos"
+  },
+  "error_page": {
+    "404": "404 Não encontrada",
+    "error": "Ocorreu um erro"
+  },
+  "account": {
+    "acc_history": "Histórico da conta"
+  },
+  "places": {
+    "title": "Locais",
+    "no_places": "Ainda não foi procurado nenhum local",
+    "sub_title": "Todos os locais que foram procurados",
+    "hist": "Ver histórico"
+  },
+  "navbar": {
+    "search": "Procurar local",
+    "hist": "Histórico de locais",
+    "account": "Conta",
+    "signout": "Sair"
+  }
+}

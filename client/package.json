@@ -1,0 +1,35 @@
+{
+  "name": "mevn_nuxt_weatherapp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MEVN + Nuxt.js weather app",
+  "author": "SilvaFilipe",
+  "scripts": {
+    "build": "nuxt build",
+    "test:unit": "vue-cli-service test:unit",
+    "devclient": "nuxt",
+    "generate": "nuxt generate",
+    "i18n:report": "vue-cli-service i18n:report --src './src/**/*.?(js|vue)' --locales './src/locales/**/*.json'",
+    "start": "nuxt start",
+    "test": "jest",
+    "heroku-postbuild": "nuxt build"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.10.3",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "nuxt": "^2.0.0",
+    "socket.io": "^2.3.0",
+    "vue-i18n": "^8.17.3"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0",
+    "@vue/cli-plugin-unit-jest": "^4.4.1",
+    "@vue/test-utils": "^1.0.3",
+    "babel-jest": "^24.1.0",
+    "flush-promises": "^1.0.2",
+    "jest": "^24.1.0",
+    "vue-cli-plugin-i18n": "~1.0.1",
+    "vue-jest": "^4.0.0-0"
+  }
+}

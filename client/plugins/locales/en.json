@@ -1,0 +1,52 @@
+{
+  "language": "English",
+  "search": {
+    "please_type": "Please type a place or press the GPS icon to find your current location",
+    "placeholder": "Search...",
+    "find_location": "Find my location",
+    "not_found": "No place has been found",
+    "search_qtty": "{placeName}'s weather has been searched {searchQtty} times"
+  },
+  "auth": {
+    "register": "Register",
+    "login": "Login",
+    "register_error": "Register error",
+    "login_error": "Login error",
+    "email": "Email",
+    "password": "Password",
+    "email_required": "E-mail is required",
+    "password_required": "Password is required",
+    "email_valid": "E-mail must be valid",
+    "password_length": "Password must have at least 6 characters",
+    "title": "Authentication"
+  },
+  "general": {
+    "homepage": "Homepage",
+    "place": "Place",
+    "date": "Date",
+    "degrees": "Temperature",
+    "weather": "Weather",
+    "empty": "Empty...",
+    "rows_per_page": "Rows per page",
+    "all": "All"
+  },
+  "error_page": {
+    "404": "404 Not Found",
+    "error": "An error occurred"
+  },
+  "account": {
+    "acc_history": "Account history"
+  },
+  "places": {
+    "title": "Places",
+    "no_places": "No places have been searched yet",
+    "sub_title": "All the places that have been searched",
+    "hist": "Open history"
+  },
+  "navbar": {
+    "search": "Search place",
+    "hist": "Place history",
+    "account": "Account",
+    "signout": "Sign out"
+  }
+}
